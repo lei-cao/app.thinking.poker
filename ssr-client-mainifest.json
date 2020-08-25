@@ -1,0 +1,176 @@
+{
+  "/": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js",
+      "p__Home.3d96a805.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/index.html": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js",
+      "p__Home.3d96a805.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/games": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/games/range-trainer": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js",
+      "p__games__RangeTrainer.0d9773bf.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/games/poker": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js",
+      "p__games__Poker.85d7d07a.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css",
+      "p__games__Poker.08689cfb.chunk.css"
+    ]
+  },
+  "/strategies": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/strategies/postflop": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/strategies/postflop/four-categories": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/strategies/ak": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/strategies/ak/preflop": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/tools": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css"
+    ]
+  },
+  "/tools/range-analyzer": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js",
+      "p__tools__RangeAnalyzer.7e36f4a9.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css",
+      "p__tools__RangeAnalyzer.7dcc82a3.chunk.css"
+    ]
+  },
+  "/tools/odds-calculator": {
+    "js": [
+      "umi.5fc9b785.js",
+      "vendors.64e588f3.async.js",
+      "layouts__PublicLayout.c00cb478.async.js",
+      "p__tools__OddsCalculator.fe2f99d2.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css",
+      "vendors.22cddb60.chunk.css",
+      "layouts__PublicLayout.1b5e1e10.chunk.css",
+      "p__tools__OddsCalculator.5a02d3f9.chunk.css"
+    ]
+  },
+  "__404": {
+    "js": [
+      "umi.5fc9b785.js",
+      "p__404.8bb4552b.async.js"
+    ],
+    "css": [
+      "umi.3910d1a6.css"
+    ]
+  }
+}
